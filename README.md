@@ -1,4 +1,4 @@
-👋 Hi there!
+👋 hi! Julian here;
 I'm a tech enthusiast who thrives on learning, solving problems, and collaborating with others. I'm sociable, proactive, and always approach challenges with a positive mindset. I enjoy connecting with people and truly believe in the power of teamwork.
 
 💻 About Me
