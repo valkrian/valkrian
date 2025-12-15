@@ -1,19 +1,11 @@
-👋 hi! Julian here;
-I'm a tech enthusiast who thrives on learning, solving problems, and collaborating with others. I'm sociable, proactive, and always approach challenges with a positive mindset. I enjoy connecting with people and truly believe in the power of teamwork.
+Tech enthusiast focused on learning, building, and improving systems.
+Interested in networking, systems, and how things work behind the scenes.
 
-💻 About Me
-🔧 I’m passionate about technology, networks, and systems.
+Strong logical thinking, problem-solving mindset, and solid soft skills.
+Comfortable collaborating, asking questions, and iterating until it works.
 
-🧠 Always curious – I love exploring topics like chess, computing, history, anime, and psychology.
+Currently improving my English (B2) and growing through hands-on projects, and real-world challenges.
 
-🌍 I speak English (B2 - Upper Intermediate) and I'm actively working to improve my fluency.
-Self-assessed levels: Reading – 9/10 | Writing – 6/10 | Listening – 6/10 | Speaking – 5/10
+Always learning. Always shipping.
 
-💡 My strengths include:
 
-Logical thinking is my passion(? hahahah
-
-Effective negotiation, soft skills, open minded.
-
-🚀 My Goals
-I'm aiming to grow professionally in a field fully related to technology, networking, and system administration. Whether it's through learning new frameworks, contributing to open source, or solving real-world problems—I'm here to grow, build, and collaborate.
